@@ -3,7 +3,7 @@
 **Stake November Monthly** refers to recurring monthly reward structures tied to account activity, VIP tier progression, and long-term participation on online entertainment platforms. This guide explains how monthly cycles, loyalty tiers, activity tracking, and crypto-based reward systems are typically structured — and how to estimate where you sit within them.
 
 ---
-[![Stake November Monthly](https://github.com/ediblepawns/stake-november-monthly/blob/main/Stake-November-Monthly.jpg)](betzed.cc)
+[![Stake November Monthly](https://github.com/ediblepawns/stake-november-monthly/blob/main/Stake-November-Monthly.jpg)](https://betzed.cc)
 
 ## 📌 What "Stake Monthly" Actually Means
 
